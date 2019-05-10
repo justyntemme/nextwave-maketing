@@ -1,4 +1,4 @@
-baseURL = "https://marketing.nextwavesolutions.io"
+baseURL = "https://marketing.nextwavesolutions.io/"
 languageCode = "en-us"
 title = "NextWave Marketing"
 theme = "hugo-hero-theme"
