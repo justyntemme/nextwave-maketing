@@ -6,4 +6,4 @@ button: 'About Us'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+NextWave constantly pushes the boundaries of technology. Applying bleeding edge ideas to marketing, such as machine learning, distributed computing, and advanced analytics.
